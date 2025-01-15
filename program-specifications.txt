@@ -1,0 +1,57 @@
+    - Port 0 LED 
+
+    -- objectives -- 
+- use default OSCICN (internal oscillator frequency 2.0 MHz)
+- disable watchdog timer
+- use P0 (port 0) for interaction
+- write switch debouncing function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
